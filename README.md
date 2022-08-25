@@ -27,6 +27,14 @@ I am open to learn new technologies, frameworks, etc (i love that!!)
 
 <br/>  
 
+## Curriculum vitae SPANISH
+[cv Gonzalo Palma.pdf](https://github.com/gonzalopmdev/gonzalopmdev/files/9427796/cv.Gonzalo.Palma.pdf)  
+
+## Curriculum vitae ENGLISH
+[cv Gonzalo Palma english.pdf](https://github.com/gonzalopmdev/gonzalopmdev/files/9427799/cv.Gonzalo.Palma.english.pdf)  
+
+
+
 
 
 
@@ -83,5 +91,6 @@ I am open to learn new technologies, frameworks, etc (i love that!!)
 
 
 <br />
+
 
 ----
