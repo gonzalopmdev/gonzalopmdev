@@ -22,6 +22,8 @@ Hi! I´m Gonzalo.  Passionate about everything related to web development and gr
 
 I´m an enthusiastic person, eager to continue learning. I would like to give the best of me in order to grow as professional and as a person.
 
+I am a team player and a person with great capacity for learning and adaptation
+
 I am open to learn new technologies, frameworks, etc (i love that!!)  
   
 
